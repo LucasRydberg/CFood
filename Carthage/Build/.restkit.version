@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.1.0",
+  "iOS" : [
+    {
+      "name" : "RestKit",
+      "hash" : "04710a72990154361627861bc0cad32d33e3ab4892a39b66ad729acc6b54a5e3"
+    }
+  ]
+}
